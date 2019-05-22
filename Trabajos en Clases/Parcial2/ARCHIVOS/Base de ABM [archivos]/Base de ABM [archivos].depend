@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558551474 source:c:\users\kevin ahumada\documentos\github\base de abm [archivos]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

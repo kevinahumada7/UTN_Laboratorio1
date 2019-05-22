@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558550609 source:c:\users\kevin ahumada\documentos\github\hardcodeoempleado[punteros]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

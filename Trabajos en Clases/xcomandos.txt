@@ -1,0 +1,6 @@
+git status
+git add .
+git commit -m "Clase Punteros" 
+git config --global user.email "kevinahumada7@gmail.com"
+git config --global user.name "KevinAhumada7"
+git push origin master

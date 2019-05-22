@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1556514953 source:c:\users\kevin ahumada\documentos\github\pruebasp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1556514953 source:c:\users\kevin ahumada\documentos\github\array de carga aleatoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
