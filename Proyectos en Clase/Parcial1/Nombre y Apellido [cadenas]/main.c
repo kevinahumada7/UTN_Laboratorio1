@@ -21,7 +21,7 @@ int main()
     strcat(nombreCompleto, ", ");
     strcat(nombreCompleto, nombre);
 
-    strlwr(nombreCompleto);
+    strlwr(nombreCompleto);//strupr();
     nombreCompleto[0]= toupper(nombreCompleto[0]);
 
     for(int i=0; i<strlen(nombreCompleto); i++)

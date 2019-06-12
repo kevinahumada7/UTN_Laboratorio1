@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560281030 source:c:\users\kevin ahumada\documentos\github\archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
